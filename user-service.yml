@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:h2:tcp://localhost/~/testdb
     driver-class-name: org.h2.Driver
-    username: '{cipher}c227571baa937c7f614b32649884148d8845f9c0e591c686fefb29a334f65654'
+    username: '{cipher}AQBFJu3lLr4G3ZvAzTz0zLhVX07qcWto49Sos+8arpGXTMEIrptQeJkyDwW9jlBNcCtkTwkYnRfkmQFPL94I8HpS7ULzGlLo627ksoqah0KhFYjr+V29jRcf0ozK/HOKmY81Ru9dqqBGjzkAocH6ZLdY5KFt5bmCaz/AJ9cRw01kvhCkZAGgfZW45tBPczxwoKVbsgLH5LuwWCDRD/933OBtm4wYJtoGfrDbSdVRBDtkSfRAIa+fWe83mHJWPGT2N0ta0YojNekZRO9Fh2CjrZX3TVMwye3gnUEDG/dSJDUNrSrQMH3mGHn3rZk6nq/4NZ9dBA/8Ryqyt9H+GlbRbkcAGnPxDRBvklH3B1M44NQQIdYL/mzlOCVmAj12z18rYag='
 
 token:
   expiration_time: 86400000
